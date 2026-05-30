@@ -49,4 +49,4 @@ curl -X POST http://127.0.0.1:5000/predict \
 | F1 Score | 0.76 |
 
 ## 👤 Author
-Your Name — [LinkedIn][(your-linkedin-url)](https://www.linkedin.com/in/chebattina-indra-sekhar-b3213030b/)] | [GitHub][(your-github-url)(https://github.com/Indra-sekhar)
+Your Name — (https://www.linkedin.com/in/chebattina-indra-sekhar-b3213030b/)] | [GitHub][(your-github-url)(https://github.com/Indra-sekhar)
